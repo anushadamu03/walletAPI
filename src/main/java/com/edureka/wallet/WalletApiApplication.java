@@ -3,6 +3,7 @@ package com.edureka.wallet;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+// main function for wallet
 @SpringBootApplication
 public class WalletApiApplication {
 
